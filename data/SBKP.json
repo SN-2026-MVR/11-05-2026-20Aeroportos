@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-07T11:07:26.463272+00:00",
+  "updated_at": "2026-06-07T13:46:25.970485+00:00",
   "data_referencia": "2026-06-07",
   "airport_icao": "SBKP",
   "airport_name": "Campinas / Viracopos",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBKP",
+    "sg_aerodromo_iata": "VCP",
+    "descricao": "VIRACOPOS - CAMPINAS - SP - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

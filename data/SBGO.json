@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-07T11:07:26.923231+00:00",
+  "updated_at": "2026-06-07T13:46:26.454485+00:00",
   "data_referencia": "2026-06-07",
   "airport_icao": "SBGO",
   "airport_name": "Goiania",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBGO",
+    "sg_aerodromo_iata": "GYN",
+    "descricao": "SANTA GENOVEVA/GOIÂNIA - GOIÂNIA - GO - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

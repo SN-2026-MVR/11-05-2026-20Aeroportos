@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-07T11:07:25.735273+00:00",
+  "updated_at": "2026-06-07T13:46:25.479640+00:00",
   "data_referencia": "2026-06-07",
   "airport_icao": "SBFL",
   "airport_name": "Florianopolis",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBFL",
+    "sg_aerodromo_iata": "FLN",
+    "descricao": "HERCÍLIO LUZ - FLORIANÓPOLIS - SC - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [

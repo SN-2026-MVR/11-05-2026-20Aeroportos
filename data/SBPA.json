@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-07T11:07:23.884270+00:00",
+  "updated_at": "2026-06-07T13:46:22.953435+00:00",
   "data_referencia": "2026-06-07",
   "airport_icao": "SBPA",
   "airport_name": "Porto Alegre",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBPA",
+    "sg_aerodromo_iata": "POA",
+    "descricao": "SALGADO FILHO - PORTO ALEGRE - RS - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
